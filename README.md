@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Gerald 👋
+
+I recentently grad from a Python Bootcamp & A Web Development Bootcamp currently seeking my first React, JavaScript or Python developer role.
 
 <!--
 **geraldc118/geraldc118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
