@@ -1,6 +1,6 @@
 ### Hi I'm Gerald 👋
 
-I recently completed a Python 0-Mastery Bootcamp & A Web Development Bootcamp, and now I'm currently seeking my first React, JavaScript or Python developer role.
+I recently graduated from a Python 0-Mastery Bootcamp & A Web Development Bootcamp, and now I'm currently seeking my first React, JavaScript or Python developer role.
 
 <!--
 **geraldc118/geraldc118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
